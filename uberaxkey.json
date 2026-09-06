@@ -1,1 +1,15 @@
-{}
+{
+  "status": "online",
+  "keys": [
+    {
+      "key": "UBERAX-VIP-2026-KEY1",
+      "user": "Ahmet",
+      "type": "VIP"
+    },
+    {
+      "key": "UBERAX-PRO-8891-KEY2",
+      "user": "Mehmet",
+      "type": "PRO"
+    }
+  ]
+}
